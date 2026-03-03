@@ -1,10 +1,11 @@
 # My Project
 
-## 🚀 Coming Soon!
-
-👉 **[View the 15-day launch countdown](coming-soon.html)**
-
-<!-- Or embed it directly: -->
 <p align="center">
-  <img src="coming-soon.html" alt="Coming soon countdown" width="100%">
+  <a href="coming-soon.html" target="_blank">
+    <img src="https://img.shields.io/badge/🚀-VIEW_15_DAY_COUNTDOWN-ff6b6b?style=for-the-badge&labelColor=2d2d2d" alt="Coming Soon">
+  </a>
+</p>
+
+<p align="center">
+  <b>✨ Click the badge above to see our fancy launch countdown ✨</b>
 </p>
